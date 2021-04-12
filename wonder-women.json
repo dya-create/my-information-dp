@@ -1,6 +1,11 @@
 {
     "firstName": "Wonder",
     "lastName": "Women",
-    "preferredName":"Wonder Women",
-    "favoriteHobby": "flying high"
+    "preferredName":"Wonder",
+    "email":"WonderWomen@heroine.com",
+    "city": "Comics",
+    "state":"Books",
+    "favoriteHobby": "FlyingHigh",
+   
+
 }
